@@ -1,5 +1,6 @@
 package hello;
 
+#adding a comment in a branch
 public class Product {
 	String category;
 	String name;
