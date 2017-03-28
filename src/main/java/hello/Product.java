@@ -1,6 +1,8 @@
 package hello;
 
 #adding a comment as a hotfix
+#adding a comment in a branch
+>>>>>>> JIRA-01
 public class Product {
 	String category;
 	String name;
